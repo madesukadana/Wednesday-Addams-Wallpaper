@@ -28,26 +28,303 @@
       "on_off_category":"2"
     }
   ],
-  "Morex":
+  "More":
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"Mommy Long Legs Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/Sas0iSgX5cgnfiPDPJ509Uo964bXg9ABEcbc8Ynqruq8IYH0G3W0dIt_f5WKchvmuOng=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.MommyLongLegsWallpapers&hl=id&gl=US"
     },
-    {
+	{
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"Optimus Prime Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/nYwlZGdvgUReG7Du2bEwg6BFqHqLCG49N597hsIEKxHui0Atbern8vMmA-p85NDHiwGi=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.OptimusPrimeWallpaper&hl=id&gl=US"
     },
-    {
+	{
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"Clover Anime Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/SyZuueFT6_CA6emJLSYzZ6z6AG-8yGeQ_Jniv2ES2nFPq13MX5Ylngb0VuZWotLgm_4=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.BlackCloverWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":4,
+      "title":"Channa Fish Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/PZ8KhooRTWkeElf3_moEM7XmU3sE125bin-nV-2G6tPvvevbM0jAmBQxqmJBLpGkArk=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.ChannaFishWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":5,
+      "title":"FFF Fire Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/03FPy41yGdU7f5qSIS6mQQAyoPwuK6wwfQcHivWAQHoH9gd0VXlK8zHFX4KP3hKnKAY=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.FFFFireWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":6,
+      "title":"Pony Wallpapers HD",
+      "image":"https://play-lh.googleusercontent.com/lm5sUnw3376K3IbHzM7MoYPmuKOaWAj8jWlS6PHviuXnb9mHdJKHm-X0-e_xBR7g4yY=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.PonyWallpapersHD&hl=id&gl=US"
+    },
+	{
+      "id":7,
+      "title":"Boyboy Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/S-wm7v5IWIzQesGAJuQC5G78GCIDOHWApf_1wTiYGAoF5SDvpjeEi9Ai_NqIjO5UUqY=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.BoboiBoyWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":8,
+      "title":"Predator Wallpaper 4K",
+      "image":"https://play-lh.googleusercontent.com/hsL5o06mdgmZLIrngxk06k8IobZHktVwleQ-YRXbDKlvC9FbRz_iQk-aggCWVKpN6qAp=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.PredatorWallpaper4K&hl=id&gl=US"
+    },
+	{
+      "id":9,
+      "title":"Way of Water Ava Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/u0xrQ1JgpsM4cMFaLkvQRNKOuoVSDM54Rd63rsWUqZouHcioPp1zGin0iiZMHkVw2iA=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.Avatar2Wallpaper&hl=id&gl=US"
+    },
+	{
+      "id":10,
+      "title":"Horror Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/wHS-NfZ-gDbrNXzk7W91lfjo243SkBuB-QQhlkxaCDJ672SJ4aBqoYQ974KSXuJIz60=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.HorrorWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":11,
+      "title":"Kuromi Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/xgG2EE5HqnEMe5MqvsM_XV5zpmtPWbBkaq85f3YV43J_YeDPdtUtgzZjFPQFqa-CV9s=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.KuromiWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":12,
+      "title":"Superheroes Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/ahI7U14ngPwEbSNE9WYIWJxGjMpP3xnrIAdsC3UzSKbNCamMIVBtL2k5vq64kR3QLrA=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.SuperheroesWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":13,
+      "title":"Demon Slayer Wallpaper Kimetsu",
+      "image":"https://play-lh.googleusercontent.com/aBbkSPfeDap3qLN_EBjOBavn699P9AKlsLVDHcqp8ryZQ5M-jlpdT7gJ1kNaqFGGKdxV=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.DemonSlayerWallpaperKimetsu&hl=id&gl=US"
+    },
+	{
+      "id":14,
+      "title":"Spy x Family Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/Ieo9z3KSIhm2cz46J50eLhpYLgn68U23mK5ear61TcsQ_yTQgOsUSmtDrG1TNL64fX8=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.SpyxFamilyWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":15,
+      "title":"Gaming Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/95fvkVcq9kubqKrCiBrASfokfF-lyMIK10NfKv1DztM4omIbxZb1UTBBTPgJOWxwu-w=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.GamingWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":16,
+      "title":"Kaiju Godzilla Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/f-O7yohtloQUZPIKcqnRkYLQ4y7kZvpIsmh9KNOiq04HpOFijubr0BCTfc1yR50dfW6i=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.KaijuGodzillaWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":17,
+      "title":"Venom Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/TnZjl8bSKNoe8qRZDUjh3QqdON1neJCzLN5KE-sip_oHt-TQnp4RotQ-CVoLBg4-hyNS=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.VenomWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":18,
+      "title":"NFL Football Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/skk5cqD4aSPgTz6VXAP4DwjMZImk6KsjcMQiMtmt6HOsxmPNBjzQIBdIdzAEDx3xzA=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.NFLFootballWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":19,
+      "title":"My Genshin Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/aqFQoF_r3qXRtnKIUQrhTfpxmpU_A7rpczmUMoANi7jZNkpvvdoBNkJy_NcWtXnJKwUh=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.MyGenshinWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":20,
+      "title":"Chainsaw Man Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/h_88wMXeiApW7Kp1RbUJsJ8hclXix8Mw8EVef8d1nBFD-mnEvoi8M9Yn6Hh-Um-7gPvA=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.ChainsawManWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":21,
+      "title":"Cute Cat Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/OjA_Nmv8IrJNdJBFx57w_fxclKiLllnukwrvLd8RFClUoNnD3MSY2YNFe6RwkXdxQw=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.CuteCatWallpapers&hl=id&gl=US"
+    },
+	{
+      "id":22,
+      "title":"Moon Knight Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/b0baZegC0G1T2SQ8MXA5gxm5PRExqwnqJojXmtYn8gqGh21V-6FBnPJz6vT7_2Amjg=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.MoonKnightWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":23,
+      "title":"Sports Car Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/iJL1EVIVAjoObxhbfmzGtOYFFCLAlAV-eG4ue4XftqSZutvk7htRtkGLx1GxKoM2hxg=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.LamborghiniWallpaperHD&hl=id&gl=US"
+    },
+	{
+      "id":24,
+      "title":"Gacha Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/vI0r7P0XaHNfFZxYFf1Ga0dcZudVR3WcX-gY64nIXpTcwnDlKh8cxqz-QBbWbdQ8EzF0=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.GachaWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":25,
+      "title":"Football Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/a11kqMVKqubyCWJ0M52KCra0XCGOrCkydi88mQB-LfU_94A3BGx4JH2yBotxcblVO3AK=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.FootballWallpaperHD&hl=id&gl=US"
+    },
+	{
+      "id":26,
+      "title":"Neon Mask Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/wcMdcCyKOl3pD2LMSvWX3HmOgt49pjW9Cv1n33U03jZlOVmoogg2hbbfHKKbOnH5jUs=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.NeonMaskWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":27,
+      "title":"Shinobu Kochou Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/ilKa1AEmjhSrXOYZnOHbTWGIt6A_agmxo2Nt-OdlxwaH1VPpsMt86obItKT7MxM-P4A-=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.ShinobuKochouWallpapers&hl=id&gl=US"
+    },
+	{
+      "id":28,
+      "title":"Anime Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/01hmE2anUIJ6uS7rJkWSbCMud4wTe88Bwpy6ahqKk5ioYdQskebn6RhDFXHlsPCKI2I=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.AnimeWallpaperHD&hl=id&gl=US"
+    },
+	{
+      "id":29,
+      "title":"The Owl House Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/Qj64TB4tWp82hC_r-o-xLdyvt27CgyDLwzfu5yWKRoQo98laGd7jOLfNwnPhhIjVH7I=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.TheOwlHouseWallpapers&hl=id&gl=US"
+    },
+	{
+      "id":30,
+      "title":"Unicorn Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/bQz9Mb1I-h6L-K82mHSkaaKVPM5IoIYmD6CctfzcN1iZwSPvZ9bpssjMFCVANJMdxze5=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.UnicornWallpaperHD&hl=id&gl=US"
+    },
+	{
+      "id":31,
+      "title":"Huggy Wuggy Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/dHAqkbSwWWeZjg9UqLP3mxgzZ7CrROTtJi1kolVzUq1FYXJCUXPdftdR_yqdpwowaOg6=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.HuggyWuggyWallpaperHD&hl=id&gl=US"
+    },
+	{
+      "id":32,
+      "title":"Sanrio Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/FqoCzRIJu_qBBfqfXijIj9OknmMni8uqrr4P1YCy8dhG2UONcAttHyNnkz06htx3BLU=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.SanrioWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":33,
+      "title":"Shining Nikki Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/-RN2LW9IIpAe1YUq4BWn3M-foR87krY9hTWiwQ1PkEYbkgYKkbyUjonT8Y4QkQSXZ9c=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.ShiningNikkiWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":34,
+      "title":"Galaxy Wolf Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/pkZfMGaDqVf53U9EPXRIDxtidEOpT8AiJ1snaCvFuP0ZFff2jV2NOCFD2cD3h3Mzt-n0=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.GalaxyWolfWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":35,
+      "title":"Pk Xd Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/ucwtj9cV-IJjJ9emBfpg6gmjHizplqug4r25bBTAuOtoChuHs0iIKL-E3AsiWsrykw=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.PKXDWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":36,
+      "title":"Battle Royale Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/vybcj57iCzxjr1m7G6e2nJn4bpxRZsxMJtjNC54DCA6qjYcfhmqAH14VWGJ_UqS9nN0=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.BattleRoyaleWallpaperHD&hl=id&gl=US"
+    },
+	{
+      "id":37,
+      "title":"Cartoon Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/YbULB6htT5ZjDzGNwrnykFBj-84bxH94xiIQIcd8CiCvYddB6npAl-ufMkDx_Ae9UMk=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.CartoonWallpaperHD&hl=id&gl=US"
+    },
+	{
+      "id":38,
+      "title":"Sakura School Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/9ATVE6VAHs8msU4ClNqbWQko-c7a5Y9s8sO3mN5wZgAslt9z7onBTIyzHw7bgjEerQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.SakuraSchoolWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":39,
+      "title":"Cute Bear Cartoon Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/2H-k8zQ-jZCjgRIo5qNFPgIOGFumqR3WnCZ3MhtSxvzSGARVLaxjF5wnxtNy6fHrUlt4=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.CuteBearCartoonWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":40,
+      "title":"Wallpaper 4K UHD",
+      "image":"https://play-lh.googleusercontent.com/L8rO3TRcrQ4VNKEwWN9huMFOuYiIDpUkINYdoxyrn7q1x5I6m35muVq2mDEG_zrhsK8=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.Wallpaper4KUHD&hl=id&gl=US"
+    },
+	{
+      "id":41,
+      "title":"Car Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/JgI9Arfd-bn_IkiPjrvBhldX-UiF5xkuPO0JqPowW62AqbZK8DDTSw8NeygZu-LL7A=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.CarWallpaperHD&hl=id&gl=US"
+    },
+	{
+      "id":42,
+      "title":"Anime Kimono Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/lQWJEpb0dGRCmqR008QR2OjaRwU9CdEEoZVKhmGgv7IKMbWf6-kRwPRXC3wJ1Px0a2Zl=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.AnimeKimonoWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":43,
+      "title":"Flower Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/WDdBaCmGddWKFjA8aOgvmPdUoTEYBmBMacZvldpBgj5io7vVL3VTHxHJ6wx9BOGD=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.FlowerWallpaperHD&hl=id&gl=US"
+    },
+	{
+      "id":44,
+      "title":"Rainbow Friend Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/89CJD0h5NocBCdU_p29nQdA0Oi8ggASCJpnen4ck5S4OeX2pBQr0-ifKLRlaOmnGxJw=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.RainbowFriendWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":45,
+      "title":"Doll Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/0xNrRtSUEAE_7U6tIZG8VHFdt1Q7VH10I0k_r-5meynHmZBOS4wp8EzwdbaanAzm4fqQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.DollWallpaperHD&hl=id&gl=US"
+    },
+	{
+      "id":46,
+      "title":"Roman Reigns Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/_LHx4t0V4XKslzU5qDDuAxaq4VPwjTWluBliyv4FN6kcSBmR0knucgjRgOnaQNVvIQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.RomanReignsWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":47,
+      "title":"Death Wolf Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/XooxUne237Er64t5-frBdqwJJ60XcNuBpp3vZUKkbYZ7GaZV1JBvwFJY1sZVQ4POCQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.DeathWolfWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":48,
+      "title":"Kawasaki Ninja Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/bkiOr9AQlekSKriLwYO0WBVW-r_HnCsq_eLmrn07a3hSLLSrxHWzrmFmGOFbcEuA5g=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.KawasakiNinjaWallpaper&hl=id&gl=US"
+    },
+	{
+      "id":49,
+      "title":"Yamaha MT15 Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/QDm3AMPICHtRKqtr-4OVoZJd6CSxGrV1zdXBdtJ2ArmimwI6s3eZCnOhGXwgsyyxT0A=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.RubahMerah.YamahaMT15Wallpaper&hl=id&gl=US"
     }
+	
   ],
 
   "Categories": 
